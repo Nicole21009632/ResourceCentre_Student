@@ -14,6 +14,7 @@ private int opticalZoom;
 	public String toString(){
 		String output = "";
 		// Write your codes here
+		output += this.getOpticalZoom(); //change
 		return output;
 	}
 }
